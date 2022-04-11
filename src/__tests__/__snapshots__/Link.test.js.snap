@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link change la classe lorsqu'on le survole 1`] = `
+<a
+  className="normal"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  rel="noopener noreferrer"
+>
+  Facebook
+</a>
+`;
+
+exports[`Link change la classe lorsqu'on le survole 2`] = `
+<a
+  className="normal"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  rel="noopener noreferrer"
+>
+  Facebook
+</a>
+`;
+
+exports[`Link change la classe lorsqu'on le survole 3`] = `
+<a
+  className="normal"
+  href="http://www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  rel="noopener noreferrer"
+>
+  Facebook
+</a>
+`;
